@@ -52,8 +52,3 @@ python src/03_rfm_segmentation.py
 python src/04_cohort_retention.py
 ```
 
-## What I'd Do Next
-
-- Market-basket analysis (association rules) for cross-sell recommendations
-- A simple churn-risk classifier using RFM features
-- Time-series forecast of monthly revenue to quantify the Q4 inventory plan
