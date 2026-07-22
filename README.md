@@ -7,7 +7,7 @@ End-to-end analysis of ~540,000 transactions from a UK-based online retailer (De
 ## Key Findings
 
 - **£10.2M revenue across 19,773 orders** (avg. order value £518) after cleaning — 96.4% of raw rows retained after removing cancellations, adjustments, and duplicates.
-- **Q4 seasonality is the dominant revenue driver.** Sep–Nov 2011 revenue ran roughly 50% above the summer baseline, peaking at £1.45M in November — clear evidence the business should front-load inventory and marketing spend ahead of Q4.
+- **Q4 seasonality is the dominant revenue driver.** Sep–Nov 2011 revenue ran roughly 65% above the May–Aug baseline, peaking at £1.45M in November — clear evidence the business should front-load inventory and marketing spend ahead of Q4.
 - **Revenue is highly concentrated: the top 14% of customers ("Champions") generate 52% of revenue.** Combined with Loyal Customers, the top two RFM segments account for ~74% of revenue, making retention programs far higher-leverage than broad acquisition.
 - **Average month-1 retention is only ~20%**, meaning 4 out of 5 new customers never return the following month. Cohort curves flatten after month 1, so the biggest retention opportunity is the first repeat purchase.
 - **85% of revenue comes from the UK**; the Netherlands, Ireland, Germany, and France lead international sales — a shortlist for targeted expansion.
